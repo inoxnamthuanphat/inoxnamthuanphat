@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**inoxnamthuanphat/inoxnamthuanphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Công Ty TNHH Công Nghiệp Nam Thuận Phát (NTP) chuyên phân phối các sản phẩm inox công nghiệp, inox trang trí, phụ kiện inox, vật tư thép, tấm ốp aluminium giá tốt nhất thị trường.
 Liên hệ:
 Công Ty TNHH Công Nghiệp Nam Thuận Phát
